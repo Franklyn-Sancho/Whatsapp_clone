@@ -20,3 +20,5 @@ Lista de recursos usados em aula para este projeto
 | Cloud Storage | https://firebase.google.com/docs/storage/?authuser=0 |
 | PDF.js | https://mozilla.github.io/pdf.js/ |
 | MediaDevices.getUserMedia() | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
+
+# EM CONSTRUÇÃO! TÉRMINO PREVISTO PARA O DIA 8 DE DEZEMBRO! 
